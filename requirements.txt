@@ -1,0 +1,21 @@
+# Veri işleme
+pandas
+numpy
+
+# Görselleştirme
+matplotlib
+seaborn
+
+# Makine öğrenmesi ve istatistik
+scikit-learn
+statsmodels
+
+# Jupyter Notebook için
+jupyter
+
+# Veri çekme, API işlemleri için (gerekirse)
+requests
+
+# Diğer yararlı kütüphaneler
+scipy
+plotly
